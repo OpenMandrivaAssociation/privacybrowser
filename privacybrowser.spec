@@ -49,6 +49,7 @@ BuildRequires:	cmake(KF6Archive)
 BuildRequires:	cmake(KF6BreezeIcons)
 BuildRequires:	cmake(Qt6WaylandClient)
 BuildRequires:	cmake(Qt6QmlWorkerScript)
+BuildRequires:	cmake(KF6DocTools)
 
 %description
 Privacy Browser is an open source web browser focused on user privacy
